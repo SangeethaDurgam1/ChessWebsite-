@@ -1,0 +1,64 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Chess</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <img src= "image.png" id="im" alt="chess game" width="350" height="250">
+    <h1 id="c">Chess</h1>
+     <nav>
+        <ul>
+            <li><a href="#o">Game Overview</a></li>
+            <li><a href="#h">Game Highlights</a></li>
+            <li><a href="#g">Getting Started</a></li>
+            <li><a href="#t">Types of Chess</a></li>
+            <li><a href="#p">Top Chess Players</a></li>
+            <li><a href="#i">Interactive Element</a></li>
+            <li><a href="#f">References</a></li>
+        </ul>
+    </nav>
+   
+
+
+    <h2 id="o">Game Overview</h2>
+    Chess is a two-player strategy board game that is played on an 8x8 grid. The game involves 16 pieces for each player, including a king, queen, rooks, knights, bishops, and pawns. The objective is to checkmate the opponent's king, which means it is in a position to be captured and cannot escape.
+    <h2 id="h">Game Highlights</h2>
+    <section>
+        Chess is renowned for its deep strategic elements and rich history. Originating in India during the Gupta Empire, it spread to Persia, the Islamic world, and then to Europe, where it evolved into its current form. The game has significant cultural and competitive importance, with international championships held by organizations such as FIDE.
+    </section>
+    <h2 id="g">Getting Started</h2>
+    <section>
+        To start playing chess, a beginner should learn the movement of each piece, basic rules like check and checkmate, and some elementary strategies. Online platforms, books, and tutorials can provide guidance. Practicing against various opponents, including AI, can help improve skills.
+    </section>
+    <h2>Types Of Chess</h2>
+    <section>
+        Chess has several variants, including blitz chess (fast-paced with shorter time controls), bullet chess (extremely rapid games), and correspondence chess (played over longer periods, often by mail or online). Each variant offers a different challenge and requires distinct strategies and skills.
+    </section>
+    <h2>Top chess players in the World</h2>
+    <ul>
+        <ul>
+            <li><a href="https://en.wikipedia.org/wiki/Magnus_Carlsen">Magnus Carlsen</a> - Classical: 2832, Rapid: 2827, Blitz: 2888</li>
+            <li><a href="https://en.wikipedia.org/wiki/Hikaru_Nakamura">Hikaru Nakamura</a> - Classical: 2802, Rapid: 2746, Blitz: 2874</li>
+            <li><a href="https://en.wikipedia.org/wiki/Fabiano_Caruana">Fabiano Caruana</a> - Classical: 2796, Rapid: 2738, Blitz: 2777</li>
+            <li><a href="https://en.wikipedia.org/wiki/Arjun_Erigaisi">Arjun Erigaisi</a> - Classical: 2778, Rapid: 2671, Blitz: 2740</li>
+            <li><a href="https://en.wikipedia.org/wiki/Ian_Nepomniachtchi">Ian Nepomniachtchi</a> - Classical: 2770, Rapid: 2754, Blitz: 2800</li>
+            <li><a href="https://en.wikipedia.org/wiki/Nodirbek_Abdusattorov">Nodirbek Abdusattorov</a> - Classical: 2769, Rapid: 2724, Blitz: 2669</li>
+            <li><a href="https://en.wikipedia.org/wiki/Gukesh_Dommaraju">Gukesh Dommaraju</a> - Classical: 2763, Rapid: 2647, Blitz: 2627</li>
+            <li><a href="https://en.wikipedia.org/wiki/Wesley_So">Wesley So</a> - Classical: 2757, Rapid: 2722, Blitz: 2773</li>
+            <li><a href="https://en.wikipedia.org/wiki/Praggnanandhaa_Rameshbabu">Praggnanandhaa Rameshbabu</a> - Classical: 2757, Rapid: 2709, Blitz: 2680</li>
+            <li><a href="https://en.wikipedia.org/wiki/Wei_Yi_(chess_player)">Wei Yi</a> - Classical: 2755, Rapid: 2771, Blitz: 2721</li>
+          </ul>
+          
+    </ul>
+    <h2 id="i">Interactive element</h2>
+    <section>
+        Chess has a substantial online presence with interactive platforms like Chess.com and Lichess, where players can compete against others worldwide, solve puzzles, and watch instructional videos. These platforms often feature analysis tools that help players understand their games and improve.
+    </section>
+    <h3 id="f"> References</h3>
+    <a href="https://en.wikipedia.org/wiki/Chess">https://en.wikipedia.org/wiki/Chess</a>
+</body>
+</html>
